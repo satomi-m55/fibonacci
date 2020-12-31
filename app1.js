@@ -14,4 +14,3 @@ for(let i = 0; i <= length; i++){
 console.log(fib(0));
 console.log(fib(1));
 console.log(fib(2));
-console.log(fib(6));
